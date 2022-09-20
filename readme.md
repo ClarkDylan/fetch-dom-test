@@ -1,0 +1,1 @@
+This is a test repo to work on grasping the concepts of fetch/promises, JS DOM manipulation, and high level functions like map or forEach
